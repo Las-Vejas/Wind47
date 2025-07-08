@@ -5,8 +5,9 @@ The keyboard uses a sandwich case, and will probably use QMK for software, but i
 
 I made this project to try out making a keyboard, and i wanted to try out an ortholinear keyboard.
 
-![IMG_0311](https://github.com/user-attachments/assets/11ac0b1d-756e-460c-8874-6d00a12a8baa)
-
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/a58e2398-1be4-442a-8b9c-3da6fa6bb3b2" />
+<img width="882" alt="image" src="https://github.com/user-attachments/assets/5c92f92c-4f15-4bc9-87c7-0987720a92f2" />
+I couldn't find a 2U keycap anywhere and im just so done :sob:
 
 ## PCB
 
