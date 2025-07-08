@@ -5,6 +5,9 @@ The keyboard uses a sandwich case, and will probably use QMK for software, but i
 
 I made this project to try out making a keyboard, and i wanted to try out an ortholinear keyboard.
 
+![IMG_0311](https://github.com/user-attachments/assets/11ac0b1d-756e-460c-8874-6d00a12a8baa)
+
+
 ## PCB
 
 <img width="1521" alt="image" src="https://github.com/user-attachments/assets/445b9c14-90e3-4963-bcf6-28877d475fa4" />
