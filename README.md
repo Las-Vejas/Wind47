@@ -21,7 +21,8 @@ I couldn't find a 2U keycap anywhere and im just so done :sob:
 ## Case
 
 - Bottom
-<img width="709" alt="image" src="https://github.com/user-attachments/assets/4fc22b70-4243-4ee3-b9de-3080b7d5ea19" />
+<img width="1440" alt="case bottom" src="https://github.com/user-attachments/assets/cf7509cf-e272-4283-8c5c-1ab114d3d2e6" />
+
 
 - Middle plate
 <img width="995" alt="image" src="https://github.com/user-attachments/assets/4218aabc-4743-49d2-85c5-db74ff40b24c" />
