@@ -38,4 +38,8 @@ Also had a massive fight with Shapr3d, Fusion, KiCad and the lack of 3d models (
 
 I noticed that the microcontroller was going through the floor so I lowered the floor down from 3mm to 1.5mm. I added the port opening, and rounded the edges.
 
+
+<img width="854" alt="SCR-20250710-irpq" src="https://github.com/user-attachments/assets/6d21f704-ba6a-4fb1-b0ff-7400ca2f8192" />
+
+
 (~30 mins)
