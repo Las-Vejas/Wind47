@@ -30,3 +30,12 @@ I decided to make the name of my keyboard more visible, so I added a big ‘WIND
 Also had a massive fight with Shapr3d, Fusion, KiCad and the lack of 3d models (and the lack of storage :sob:).
 
 (6-ish hours)
+
+
+## July 10th 2025
+
+09:08 - I realized I didn’t put a usb-c port opening on my 3d file :see-no-evil:. I will try to make it in Shapr3d.
+
+I noticed that the microcontroller was going through the floor so I lowered the floor down from 3mm to 1.5mm. I added the port opening, and rounded the edges.
+
+(~30 mins)
